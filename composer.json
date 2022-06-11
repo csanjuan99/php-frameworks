@@ -1,0 +1,19 @@
+{
+  "name": "carlos/php-frameworks",
+  "description": "Proyecto basico",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": [
+      "app/helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Carlos Sanjuan",
+      "email": "carlosdsanjuan@outlook.com"
+    }
+  ],
+  "require": {}
+}
